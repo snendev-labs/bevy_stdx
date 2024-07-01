@@ -1,0 +1,12 @@
+[submodule "bevy_anyhow_alert"]
+	path = bevy_anyhow_alert
+	url = git@github.com:GroveStStudios/bevy_anyhow_alert.git
+[submodule "bevy_ui_mod_alerts"]
+	path = bevy_ui_mod_alerts
+	url = git@github.com:GroveStStudios/bevy_ui_mod_alerts.git
+[submodule "bevy_assert_plugin"]
+	path = bevy_assert_plugin
+	url = git@github.com:GroveStStudios/bevy_assert_plugin.git
+[submodule "bevy_mod_try_system"]
+	path = bevy_mod_try_system
+	url = git@github.com:GroveStStudios/bevy_mod_try_system.git
